@@ -11,6 +11,7 @@ This project focuses on predicting the credibility of celebrity gossip using mac
 
 
 ## Dependencies
+- nltk
 - pandas
 - numpy
 - scikit-learn
